@@ -1,0 +1,7 @@
+Conta de doente.
+ username:japa
+ password:pa
+ peso:89 cm
+ altura:231 quilos
+ fuma:sim
+ doenças:nao

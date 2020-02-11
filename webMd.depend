@@ -1,0 +1,184 @@
+# depslib dependency file v1.0
+1523536596 source:c:\users\psi17f06\desktop\webmd\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.c>
+	<locale.h>
+	<string.h>
+	"ascii.h"
+	<windows.h>
+	"login.h"
+
+1523533985 c:\users\psi17f06\desktop\webmd\ascii.h
+
+1523534315 c:\users\psi17f06\desktop\webmd\login.h
+
+1524047708 source:c:\users\psi17f06\desktop\webmdtrue\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.c>
+	<locale.h>
+	<string.h>
+	"ascii.h"
+	<windows.h>
+	"login.h"
+
+1523533985 c:\users\psi17f06\desktop\webmdtrue\ascii.h
+
+1524050363 c:\users\psi17f06\desktop\webmdtrue\login.h
+
+1524025364 source:c:\users\user\desktop\medcare\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.c>
+	<locale.h>
+	<string.h>
+	"ascii.h"
+	<windows.h>
+	"login.h"
+
+1524025364 c:\users\user\desktop\medcare\ascii.h
+
+1524025364 c:\users\user\desktop\medcare\login.h
+
+1524133862 source:c:\users\psi17f06\downloads\medcare-20180419t091930z-001\medcare\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.c>
+	<locale.h>
+	<string.h>
+	"ascii.h"
+	<windows.h>
+	"login.h"
+
+1524133621 c:\users\psi17f06\downloads\medcare-20180419t091930z-001\medcare\ascii.h
+
+1524133621 c:\users\psi17f06\downloads\medcare-20180419t091930z-001\medcare\login.h
+
+1524136643 source:c:\users\psi17f06\desktop\medcare\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.c>
+	<locale.h>
+	<string.h>
+	"ascii.h"
+	<windows.h>
+	"login.h"
+
+1524133621 c:\users\psi17f06\desktop\medcare\ascii.h
+
+1524133621 c:\users\psi17f06\desktop\medcare\login.h
+
+1527152206 source:g:\medcare\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.c>
+	<locale.h>
+	<string.h>
+	"ascii.h"
+	<windows.h>
+	<time.h>
+	"ifs.h"
+	"login.h"
+
+1527022656 g:\medcare\ascii.h
+
+1527022676 g:\medcare\login.h
+
+1525688404 source:f:\medcare\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.c>
+	<locale.h>
+	<string.h>
+	"ascii.h"
+	<windows.h>
+	<time.h>
+	"meds.h"
+	"ifs.h"
+	"login.h"
+
+1524133622 f:\medcare\ascii.h
+
+1525255148 f:\medcare\login.h
+
+1525342962 f:\medcare\meds.h
+
+1525950932 g:\medcare\meds.h
+
+1525687834 f:\medcare\ifs.h
+	"filedoenca.h"
+
+1527022700 g:\medcare\ifs.h
+	"filedoenca.h"
+
+1525688466 f:\medcare\filedoenca.h
+
+1527022714 g:\medcare\filedoenca.h
+
+1525865744 source:h:\medcare\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.c>
+	<locale.h>
+	<string.h>
+	"ascii.h"
+	<windows.h>
+	<time.h>
+	"meds.h"
+	"ifs.h"
+	"login.h"
+
+1525853662 h:\medcare\ascii.h
+
+1525342962 h:\medcare\meds.h
+
+1525864572 h:\medcare\ifs.h
+	"filedoenca.h"
+
+1525688466 h:\medcare\filedoenca.h
+
+1525854322 h:\medcare\login.h
+
+1526987468 source:d:\medcare\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.c>
+	<locale.h>
+	<string.h>
+	"ascii.h"
+	<windows.h>
+	<time.h>
+	"ifs.h"
+	"login.h"
+
+1525853662 d:\medcare\ascii.h
+
+1526639020 d:\medcare\ifs.h
+	"filedoenca.h"
+
+1526815916 d:\medcare\filedoenca.h
+
+1526988258 d:\medcare\login.h
+
+1527152206 source:g:\trabalhos\medcare\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.c>
+	<locale.h>
+	<string.h>
+	"ascii.h"
+	<windows.h>
+	<time.h>
+	"ifs.h"
+	"login.h"
+
+1527022656 g:\trabalhos\medcare\ascii.h
+
+1527022700 g:\trabalhos\medcare\ifs.h
+	"filedoenca.h"
+
+1527022714 g:\trabalhos\medcare\filedoenca.h
+
+1527022676 g:\trabalhos\medcare\login.h
+
